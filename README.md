@@ -6,4 +6,7 @@ Go and check out https://doras.to
 
 Or my own profile hosted with them https://wildwanderer-vr.com
 
-![create your account today](images/doras-create.png)
+
+<a href="https://doras.to">
+<img border="0" src="images/doras-create.png">
+</a> 

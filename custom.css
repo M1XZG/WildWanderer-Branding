@@ -6,17 +6,14 @@ My custom css used to power https://wildwanderer-vr.com on https://doras.to
 filter: drop-shadow(0 0 0.10rem purple);
 color: rgb(0 0 0 / 75%);
 }
-
 #user-bio {
 filter: drop-shadow(0 0 0.10rem purple);
 color: rgb(0 0 0 / 75%);
 }
-
 #profile-heading {
 filter: drop-shadow(0 0 0.10rem purple);
 color: rgb(0 0 0 / 75%);
 }
-
 .richText {
 /* text-shadow: 3px 3px 0px rgba(0,0,0,0.2); */
 background-color: rgb(174 74 255 / 50%);
@@ -24,7 +21,6 @@ border-color: rgb(195 122 255 / 100%);
 filter: drop-shadow(0 0 0.35rem purple);
 color: rgb(0 0 0 / 75%);
 }
-
 .Text {
 /*text-shadow: 3px 3px 0px rgba(0,0,0,0.2);*/
 background-color: rgb(174 74 255 / 50%);
@@ -32,7 +28,6 @@ border-color: rgb(195 122 255 / 100%);
 filter: drop-shadow(0 0 0.35rem purple);
 color: rgb(0 0 0 / 75%);
 }
-
 #block {
 /* text-shadow: 5px 5px 0px rgba(0,0,0,0.2);*/
 background-color: rgb(174 74 255 / 50%);
@@ -40,7 +35,13 @@ border-color: rgb(195 122 255 / 100%);
 filter: drop-shadow(0 0 0.35rem purple);
 color: rgb(0 0 0 / 75%);
 }
-
+#divider {
+/* text-shadow: 5px 5px 0px rgba(0,0,0,0.2);*/
+background-color: rgb(174 74 255 / 50%);
+border-color: rgb(195 122 255 / 100%);
+filter: drop-shadow(0 0 0.35rem purple);
+color: rgb(0 0 0 / 75%);
+}
 #mediakit {
 /*text-shadow: 3px 3px 0px rgba(0,0,0,0.2);*/
 background-color: rgb(174 74 255 / 50%);
@@ -48,7 +49,6 @@ border-color: rgb(195 122 255 / 100%);
 filter: drop-shadow(0 0 0.35rem purple);
 color: rgb(0 0 0 / 75%);
 }
-
 #mediakit-tiktok-wildwanderer_vr {
 /*text-shadow: 3px 3px 0px rgba(0,0,0,0.2);*/
 background-color: rgb(255 130 253 / 50%);
@@ -56,7 +56,6 @@ border-color: rgb(195 122 255 / 100%);
 filter: drop-shadow(0 0 0.35rem purple);
 color: rgb(0 0 0 / 75%);
 }
-
 #mediakit-twitter-WildWanderer_vr {
 /*text-shadow: 3px 3px 0px rgba(0,0,0,0.2);*/
 background-color: rgb(255 130 253 / 50%);

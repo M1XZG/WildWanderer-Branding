@@ -1,3 +1,7 @@
+<center>
+<img border="0" src="Logo\ Images/WildWander\ -\ Logo\ -\ 2025\ -\ nobg.png">
+</center>
+
 # doras-to profile
 
 I'm using this repo as place to store things such as custom.css and anything else I find that might be helpful to others.

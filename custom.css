@@ -4,14 +4,32 @@ My custom css used to power https://wildwanderer-vr.com on https://doras.to
 
 #display-name {
 filter: drop-shadow(0 0 0.10rem purple);
-color: rgb(255 165 238 / 75%);
-}
-#user-bio {
-filter: drop-shadow(0 0 0.10rem purple);
+border-color: rgb(169 108 187 / 100%);
 color: rgb(255 165 238 / 75%);
 }
 #profile-heading {
 filter: drop-shadow(0 0 0.10rem purple);
+border-color: rgb(169 108 187 / 100%);
+color: rgb(255 165 238 / 75%);
+}
+#user-bio {
+filter: drop-shadow(0 0 0.10rem purple);
+border-color: rgb(169 108 187 / 100%);
+color: rgb(255 165 238 / 75%);
+}
+#user-bio {
+filter: drop-shadow(0 0 0.10rem purple);
+border-color: rgb(169 108 187 / 100%);
+color: rgb(255 165 238 / 75%);
+}
+#user-pronouns {
+filter: drop-shadow(0 0 0.10rem purple);
+border-color: rgb(169 108 187 / 100%);
+color: rgb(255 165 238 / 75%);
+}
+#user-location {
+filter: drop-shadow(0 0 0.10rem purple);
+border-color: rgb(169 108 187 / 100%);
 color: rgb(255 165 238 / 75%);
 }
 .richText {

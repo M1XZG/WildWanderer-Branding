@@ -1,5 +1,5 @@
 <center>
-<img border="0" src="Logo\ Images/WildWander\ -\ Logo\ -\ 2025\ -\ nobg.png">
+<img border="0" src="Logo%20Images/WildWander%20-%20Logo%20-%202025%20-%20nobg.png">
 </center>
 
 # doras-to profile

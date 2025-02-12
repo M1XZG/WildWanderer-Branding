@@ -4,85 +4,85 @@ My custom css used to power https://wildwanderer-vr.com on https://doras.to
 
 /* Global font */
 .bn-block-outer {
-    font-family: Luckiest Guy;
-    color: rgb(0 0 0 / 75%);
-    }
-    #display-name {
-    filter: drop-shadow(0 0 0.10rem #800080);
-    border-color: rgb(255 165 238 / 100%);
-    color: rgb(255 165 238 / 75%);
-    }
-    #profile-heading {
-    filter: drop-shadow(0 0 0.10rem  #800080);
-    border-color: rgb(255 165 238 / 100%);
-    color: rgb(255 165 238 / 75%);
-    }
-    #user-bio {
-    filter: drop-shadow(0 0 0.10rem  #800080);
-    border-color: rgb(255 165 238 / 100%);
-    color: rgb(255 165 238 / 75%);
-    }
-    #user-bio {
-    filter: drop-shadow(0 0 0.10rem  #800080);
-    border-color: rgb(255 165 238 / 100%);
-    color: rgb(255 165 238 / 75%);
-    }
-    #user-pronouns {
-    filter: drop-shadow(0 0 0.10rem  #800080);
-    border-color: rgb(255 165 238 / 100%);
-    color: rgb(255 165 238 / 75%);
-    }
-    #user-location {
-    filter: drop-shadow(0 0 0.10rem  #800080);
-    border-color: rgb(169 108 187 / 100%);
-    color: rgb(255 165 238 / 75%);
-    }
-    .richText {
-    /* text-shadow: 3px 3px 0px rgba(0,0,0,0.2); */
-    background-color: rgb(239 183 255 / 50%);
-    border-color: rgb(255 165 238 / 100%);
-    filter: drop-shadow(0 0 0.35rem  #800080);
-    }
-    .Text {
-    /*text-shadow: 3px 3px 0px rgba(0,0,0,0.2);*/
-    background-color: rgb(239 183 255 / 50%);
-    border-color: rgb(255 165 238 / 100%);
-    filter: drop-shadow(0 0 0.35rem #800080);
-    /* color: rgb(0 0 0 / 75%); */
-    }
-    #block {
-    /* text-shadow: 5px 5px 0px rgba(0,0,0,0.2);*/
-    background-color: rgb(239 183 255 / 50%);
-    border-color: rgb(255 165 238 / 100%);
-    filter: drop-shadow(0 0 0.35rem #800080);
-    /* color: rgb(0 0 0 / 75%); */
-    }
-    #divider {
-    /* text-shadow: 5px 5px 0px rgba(0,0,0,0.2);*/
-    background-color: rgb(239 183 255 / 50%);
-    border-color: rgb(255 165 238 / 100%);
-    filter: drop-shadow(0 0 0.35rem #800080);
-    /* color: rgb(0 0 0 / 75%); */
-    }
-    #mediakit {
-    /*text-shadow: 3px 3px 0px rgba(0,0,0,0.2);*/
-    background-color: rgb(239 183 255 / 50%);
-    border-color: rgb(255 165 238 / 100%);
-    filter: drop-shadow(0 0 0.35rem #800080);
-    /* color: rgb(0 0 0 / 75%); */
-    }
-    #mediakit-tiktok-wildwanderer_vr {
-    /*text-shadow: 3px 3px 0px rgba(0,0,0,0.2);*/
-    background-color: rgb(255 130 253 / 50%);
-    border-color: rgb(255 165 238 / 100%);
-    filter: drop-shadow(0 0 0.35rem #800080);
-    /* color: rgb(0 0 0 / 75%); */
-    }
-    #mediakit-twitter-WildWanderer_vr {
-    /*text-shadow: 3px 3px 0px rgba(0,0,0,0.2);*/
-    background-color: rgb(255 130 253 / 50%);
-    border-color: rgb(255 165 238 / 100%);
-    filter: drop-shadow(0 0 0.35rem #800080);
-    /* color: rgb(0 0 0 / 75%); */
-    }
+font-family: Luckiest Guy;
+color: rgb(0 0 0 / 75%);
+}
+#display-name {
+filter: drop-shadow(0 0 0.10rem #800080);
+border-color: rgb(255 165 238 / 100%);
+color: rgb(255 165 238 / 75%);
+}
+#profile-heading {
+filter: drop-shadow(0 0 0.10rem  #800080);
+border-color: rgb(255 165 238 / 100%);
+color: rgb(255 165 238 / 75%);
+}
+#user-bio {
+filter: drop-shadow(0 0 0.10rem  #800080);
+border-color: rgb(255 165 238 / 100%);
+color: rgb(255 165 238 / 75%);
+}
+#user-bio {
+filter: drop-shadow(0 0 0.10rem  #800080);
+border-color: rgb(255 165 238 / 100%);
+color: rgb(255 165 238 / 75%);
+}
+#user-pronouns {
+filter: drop-shadow(0 0 0.10rem  #800080);
+border-color: rgb(255 165 238 / 100%);
+color: rgb(255 165 238 / 75%);
+}
+#user-location {
+filter: drop-shadow(0 0 0.10rem  #800080);
+border-color: rgb(169 108 187 / 100%);
+color: rgb(255 165 238 / 75%);
+}
+.richText {
+/* text-shadow: 3px 3px 0px rgba(0,0,0,0.2); */
+background-color: rgb(239 183 255 / 50%);
+border-color: rgb(255 165 238 / 100%);
+filter: drop-shadow(0 0 0.35rem  #800080);
+}
+.Text {
+/*text-shadow: 3px 3px 0px rgba(0,0,0,0.2);*/
+background-color: rgb(239 183 255 / 50%);
+border-color: rgb(255 165 238 / 100%);
+filter: drop-shadow(0 0 0.35rem #800080);
+/* color: rgb(0 0 0 / 75%); */
+}
+#block {
+/* text-shadow: 5px 5px 0px rgba(0,0,0,0.2);*/
+background-color: rgb(239 183 255 / 50%);
+border-color: rgb(255 165 238 / 100%);
+filter: drop-shadow(0 0 0.35rem #800080);
+/* color: rgb(0 0 0 / 75%); */
+}
+#divider {
+/* text-shadow: 5px 5px 0px rgba(0,0,0,0.2);*/
+background-color: rgb(239 183 255 / 50%);
+border-color: rgb(255 165 238 / 100%);
+filter: drop-shadow(0 0 0.35rem #800080);
+/* color: rgb(0 0 0 / 75%); */
+}
+#mediakit {
+/*text-shadow: 3px 3px 0px rgba(0,0,0,0.2);*/
+background-color: rgb(239 183 255 / 50%);
+border-color: rgb(255 165 238 / 100%);
+filter: drop-shadow(0 0 0.35rem #800080);
+/* color: rgb(0 0 0 / 75%); */
+}
+#mediakit-tiktok-wildwanderer_vr {
+/*text-shadow: 3px 3px 0px rgba(0,0,0,0.2);*/
+background-color: rgb(255 130 253 / 50%);
+border-color: rgb(255 165 238 / 100%);
+filter: drop-shadow(0 0 0.35rem #800080);
+/* color: rgb(0 0 0 / 75%); */
+}
+#mediakit-twitter-WildWanderer_vr {
+/*text-shadow: 3px 3px 0px rgba(0,0,0,0.2);*/
+background-color: rgb(255 130 253 / 50%);
+border-color: rgb(255 165 238 / 100%);
+filter: drop-shadow(0 0 0.35rem #800080);
+/* color: rgb(0 0 0 / 75%); */
+}
     

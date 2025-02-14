@@ -4,7 +4,7 @@ My custom css used to power https://wildwanderer-vr.com on https://doras.to
 
 /* Global font */
 .bn-block-outer {
-font-family: Luckiest Guy;
+font-family: poppins;
 color: rgb(0 0 0 / 75%);
 }
 #display-name {
@@ -85,4 +85,3 @@ border-color: rgb(255 165 238 / 100%);
 filter: drop-shadow(0 0 0.35rem #800080);
 /* color: rgb(0 0 0 / 75%); */
 }
-    

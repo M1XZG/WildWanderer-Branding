@@ -1,0 +1,32 @@
+<style>
+:root{--ww-pink:#FFA5EE;--ww-purple:#800080;--ww-white:#E6E6E6;--ww-black:#0F0F0F;--ghost-accent-color:#FFA5EE;}
+
+/* Background image (dark-tinted) */
+body{font-family:Poppins,system-ui,sans-serif;color:var(--ww-white);
+  background:linear-gradient(rgba(15,15,15,.55),rgba(15,15,15,.55)),url('https://cdn.doras.to/doras/assets/34c144de-8d36-441b-98da-db5c12a176e8/f4f0b229-df7a-4c6e-9102-5ca87edfc847.png')!important;
+  background-size:cover!important;background-position:center!important;background-attachment:fixed!important;}
+html,.gh-viewport,.gh-main,.gh-content,.site-content,.site-main{background:transparent!important;}
+
+/* Dark header */
+.gh-head,.site-header,.gh-navigation{background:#0F0F0F!important;color:var(--ww-white)!important;}
+.gh-head-menu a,.gh-burger,.gh-search,.gh-head-link{color:var(--ww-pink)!important;}
+
+/* Logo */
+.gh-navigation{height:auto!important;padding:.4rem 0;}
+.gh-head-logo,.gh-head-logo a{max-height:none!important;}
+.gh-head-logo img{height:80px!important;max-height:80px!important;width:auto!important;filter:drop-shadow(0 0 .4rem var(--ww-purple));}
+
+/* Cards */
+.post-card,.gh-card{background:rgb(239 183 255 / 65%)!important;border:2px solid var(--ww-pink);border-radius:1.25rem;box-shadow:0 0 .5rem var(--ww-purple);color:var(--ww-black);padding:1.5rem 1.75rem;overflow:hidden;}
+.post-card-title,.post-card-excerpt,.post-card-meta{color:var(--ww-black)!important;}
+
+/* Footer: logo only, large, centred, transparent */
+.gh-footer{background:transparent!important;border:none!important;}
+.gh-social-links,.gh-footer-bar nav,.gh-footer-bar .gh-copyright,.gh-footer-bar .gh-powered{display:none!important;}
+.gh-footer-bar{justify-content:center!important;border:none!important;}
+.gh-footer-logo img{height:120px!important;max-height:120px!important;width:auto!important;filter:drop-shadow(0 0 .5rem var(--ww-purple));}
+
+/* Hide subscribe / signup */
+.gh-head-actions [data-portal],.subscribe-form,.gh-subscribe,[data-members-form],.kg-signup-card,.gh-cta,a[href*="#/portal/signup"],[data-portal="signup"]{display:none!important;}
+</style>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap" rel="stylesheet">

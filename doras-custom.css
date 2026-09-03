@@ -1,87 +1,47 @@
 /*
-My custom css used to power https://wildwanderer-vr.com on https://doras.to
+Custom CSS for https://wildwanderer-vr.com on https://doras.to
 */
 
 /* Global font */
 .bn-block-outer {
-font-family: poppins;
-color: rgb(0 0 0 / 75%);
+  font-family: Poppins, sans-serif;
 }
-#display-name {
-filter: drop-shadow(0 0 0.10rem #800080);
-border-color: rgb(255 165 238 / 100%);
-color: rgb(255 165 238 / 75%);
+
+.bn-block-outer {
+  color: rgb(0 0 0 / 75%);
 }
-#profile-heading {
-filter: drop-shadow(0 0 0.10rem  #800080);
-border-color: rgb(255 165 238 / 100%);
-color: rgb(255 165 238 / 75%);
-}
-#user-bio {
-filter: drop-shadow(0 0 0.10rem  #800080);
-border-color: rgb(255 165 238 / 100%);
-color: rgb(255 165 238 / 75%);
-}
-#user-bio {
-filter: drop-shadow(0 0 0.10rem  #800080);
-border-color: rgb(255 165 238 / 100%);
-color: rgb(255 165 238 / 75%);
-}
-#user-pronouns {
-filter: drop-shadow(0 0 0.10rem  #800080);
-border-color: rgb(255 165 238 / 100%);
-color: rgb(255 165 238 / 75%);
-}
+
+/* Profile heading */
+#display-name,
+#profile-heading,
+#user-bio,
+#user-pronouns,
 #user-location {
-filter: drop-shadow(0 0 0.10rem  #800080);
-border-color: rgb(169 108 187 / 100%);
-color: rgb(255 165 238 / 75%);
+  border-color: rgb(255 165 238 / 100%);
+  color: rgb(255 165 238 / 75%);
+  filter: drop-shadow(0 0 0.1rem #800080);
 }
-.richText {
-/* text-shadow: 3px 3px 0px rgba(0,0,0,0.2); */
-background-color: rgb(239 183 255 / 50%);
-border-color: rgb(255 165 238 / 100%);
-filter: drop-shadow(0 0 0.35rem  #800080);
-}
-.Text {
-/*text-shadow: 3px 3px 0px rgba(0,0,0,0.2);*/
-background-color: rgb(239 183 255 / 50%);
-border-color: rgb(255 165 238 / 100%);
-filter: drop-shadow(0 0 0.35rem #800080);
-/* color: rgb(0 0 0 / 75%); */
-}
-#block {
-/* text-shadow: 5px 5px 0px rgba(0,0,0,0.2);*/
-background-color: rgb(239 183 255 / 50%);
-border-color: rgb(255 165 238 / 100%);
-filter: drop-shadow(0 0 0.35rem #800080);
-/* color: rgb(0 0 0 / 75%); */
-}
-#divider {
-/* text-shadow: 5px 5px 0px rgba(0,0,0,0.2);*/
-background-color: rgb(239 183 255 / 50%);
-border-color: rgb(255 165 238 / 100%);
-filter: drop-shadow(0 0 0.35rem #800080);
-/* color: rgb(0 0 0 / 75%); */
-}
+
+/*
+Doras Theme Engine v2 scopes custom CSS and automatically makes declarations
+important, so direct values must be used instead of :root variables.
+*/
+.richText,
+.Rich-Text-Block,
+.Text,
+#block,
+#divider,
 #mediakit {
-/*text-shadow: 3px 3px 0px rgba(0,0,0,0.2);*/
-background-color: rgb(239 183 255 / 50%);
-border-color: rgb(255 165 238 / 100%);
-filter: drop-shadow(0 0 0.35rem #800080);
-/* color: rgb(0 0 0 / 75%); */
+  background-color: rgb(239 183 255 / 50%);
+  border-color: rgb(255 165 238 / 100%);
+  filter: drop-shadow(0 0 0.35rem #800080);
 }
-#mediakit-tiktok-wildwanderer_vr {
-/*text-shadow: 3px 3px 0px rgba(0,0,0,0.2);*/
-background-color: rgb(255 130 253 / 50%);
-border-color: rgb(255 165 238 / 100%);
-filter: drop-shadow(0 0 0.35rem #800080);
-/* color: rgb(0 0 0 / 75%); */
-}
-#mediakit-twitter-WildWanderer_vr {
-/*text-shadow: 3px 3px 0px rgba(0,0,0,0.2);*/
-background-color: rgb(255 130 253 / 50%);
-border-color: rgb(255 165 238 / 100%);
-filter: drop-shadow(0 0 0.35rem #800080);
-/* color: rgb(0 0 0 / 75%); */
+
+#mediakit-tiktok-wildwanderer_vr,
+#mediakit-twitch-wildwanderer_vr,
+#mediakit-twitter-WildWanderer_vr,
+[id="mediakit-youtube-@wildwanderer_vr"] {
+  background-color: rgb(218 154 224 / 50%);
+  border-color: rgb(255 165 238 / 100%);
+  filter: drop-shadow(0 0 0.35rem #800080);
 }

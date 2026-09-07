@@ -10,6 +10,11 @@ Go and check out https://doras.to
 
 Or my own profile hosted with them https://wildwanderer-vr.com
 
+`doras-custom.css` matches the live profile styling as of 2026-09-07. It uses
+Nunito Sans for rich text and 85% opacity for the lavender cards. Set the
+profile font to **Nunito Sans** in Doras's theme editor too; its internal
+font-family name is `Nunito Sans Variable`. The profile uses 20px body text.
+
 <hr>
 <a href="https://doras.to">
 <img border="0" src="images/doras-create.png">

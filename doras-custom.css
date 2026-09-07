@@ -4,7 +4,7 @@ Custom CSS for https://wildwanderer-vr.com on https://doras.to
 
 /* Global font */
 .bn-block-outer {
-  font-family: Poppins, sans-serif;
+  font-family: "Nunito Sans Variable", sans-serif;
 }
 
 .bn-block-outer {
@@ -32,7 +32,7 @@ important, so direct values must be used instead of :root variables.
 #block,
 #divider,
 #mediakit {
-  background-color: rgb(239 183 255 / 50%);
+  background-color: rgb(239 183 255 / 85%);
   border-color: rgb(255 165 238 / 100%);
   filter: drop-shadow(0 0 0.35rem #800080);
 }
@@ -41,7 +41,7 @@ important, so direct values must be used instead of :root variables.
 #mediakit-twitch-wildwanderer_vr,
 #mediakit-twitter-WildWanderer_vr,
 [id="mediakit-youtube-@wildwanderer_vr"] {
-  background-color: rgb(218 154 224 / 50%);
+  background-color: rgb(218 154 224 / 85%);
   border-color: rgb(255 165 238 / 100%);
   filter: drop-shadow(0 0 0.35rem #800080);
 }
